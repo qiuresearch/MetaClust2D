@@ -1,2 +1,2 @@
 # Metafam2D
-Meta-family database of RNA secondary structures
+Meta-cluster database of RNA secondary structures
