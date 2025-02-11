@@ -1,9 +1,9 @@
 # RNA Properties from Chemical Mapping Data 
-Our goal is to predict several RNA features, such as stability and structure, from the chemical mapping data. 
+The models we are going to analyze predict several RNA features, such as stability and structure, from the chemical mapping data. 
 
 
 ## Background
-The best place to start is the Kaggle [OpenVaccine gitub repository](https://github.com/eternagame/KaggleOpenVaccine) where you can learn a lot more about the project.
+The best place to start is the Kaggle [OpenVaccine gitub repository](https://github.com/eternagame/KaggleOpenVaccine) where you can learn a lot more about the data and models.
 
 This exersise follows the steps provided by EternaBench (https://github.com/eternagame/EternaBench) and the Kaggle OpenVaccine project (https://github.com/eternagame/KaggleOpenVaccine).
 
@@ -50,12 +50,14 @@ The original set is obtained from [EternaBench](https://github.com/eternagame/Et
 
 ## Tasks
 
-### 1. Explorative data analysis of the OpenVaccine dataset
+### 1. Gain familarity with the OpenVaccine dataset
 
 
 
-### 2. Re-implement some models in the OpenVaccine models folder
+### 2. Select and run some models in the OpenVaccine models folder
 
+
+### 3. Apply the selected models on test sequences and analyze model behaviors as we discussed
 
 ### 3. Develop our own model
 
