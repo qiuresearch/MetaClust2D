@@ -59,5 +59,6 @@ The original set is obtained from [EternaBench](https://github.com/eternagame/Et
 
 ### 3. Apply the selected models on test sequences and analyze model behaviors as we discussed
 
-### 3. Develop our own model
+
+### 4. Train the selected models or our own model with customized separation between training and test data
 
